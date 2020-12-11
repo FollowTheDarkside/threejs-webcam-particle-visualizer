@@ -91,7 +91,7 @@ function initWebCam(){
         createParticles();
     }).catch(function(e) {
         alert("ERROR: " + e.message);
-        console.error('ERROR:', e.message);
+        // console.error('ERROR:', e.message);
     });
 }
 
