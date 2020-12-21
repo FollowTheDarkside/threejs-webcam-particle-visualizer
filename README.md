@@ -5,6 +5,7 @@
 Visualize particle using web camera pixel info by three.js.
 - [Demo Page](https://followthedarkside.github.io/threejs-webcam-particle-visualizer/)
 - [Demo Video](https://youtu.be/OZF_0a6Vj3c)
+- [Tutorial (Japanese)](https://note.com/thedesignium/n/n9f3c838cc7b7)
 
 ## License
 MIT
